@@ -1,3 +1,6 @@
 Hello world !
 This is git practice
 hello once again 
+Take input from user 
+add the values
+
